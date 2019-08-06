@@ -43,4 +43,6 @@ jupyter notebook
 Penjelasan lebih lengkap terkait instalasi Jupyter notebook dapat dilihat di [tautan ini](https://jupyter.org/install).
 
 ## ⚖️ Lisensi
-Karya ini dilisensi dengan Creative Commons Attribution 3.0 Unported License. Untuk melihat salinan dari lisensi tersebut, kunjungi http://creativecommons.org/licenses/by/3.0/.
+Karya ini dilisensi dengan <a rel="license" href="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 Unported License</a>. Untuk melihat salinan dari lisensi tersebut, kunjungi http://creativecommons.org/licenses/by/3.0/.
+
+<a rel="license" href="http://creativecommons.org/licenses/by/3.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/3.0/88x31.png" /></a>
