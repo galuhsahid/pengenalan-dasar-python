@@ -42,6 +42,9 @@ jupyter notebook
 
 Penjelasan lebih lengkap terkait instalasi Jupyter notebook dapat dilihat di [tautan ini](https://jupyter.org/install).
 
+## 💭 Isu dan Kontribusi
+Apabila Anda menemukan isu atau ingin membantu memperbaiki modul ini, Anda bisa langsung [membuka isu](https://github.com/galuhsahid/pengenalan-dasar-python/issues/new) atau [membuat *pull request*](https://github.com/galuhsahid/pengenalan-dasar-python/compare). 🙏
+
 ## ⚖️ Lisensi
 Karya ini dilisensi dengan <a rel="license" href="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 Unported License</a>. Untuk melihat salinan dari lisensi tersebut, kunjungi http://creativecommons.org/licenses/by/3.0/.
 
