@@ -18,7 +18,7 @@ Modul-modul ini diadaptasi dari Python-Lectures oleh ​[Andreas Ernst​](https
 
 ## ⚙️ Instalasi
 ### Instalasi Python
-Mac OS dan Linux sudah di-*install* Python secara *default*. Sementara itu, para pengguna Windows dapat mengunduh Python melalui *link* [ini](https://www.python.org/downloads/).
+Python sudah ter-*install* di Mac OS dan Linux secara *default*. Para pengguna Windows dapat mengunduh Python melalui *link* [ini](https://www.python.org/downloads/).
 
 ### Instalasi Jupyter notebook
 Jupyter notebook adalah aplikasi berbasis web, di mana kita dapat menulis dan mengeksekusi kode Python di ​*web browser*​. Dengan Jupyter notebook, kita dapat mengeksekusi kode Python per bagian/per blok dalam satu waktu.
