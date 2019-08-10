@@ -1,4 +1,11 @@
 # Pengenalan Dasar Python
+Untuk mengunduh materi-materi di folder ini, Anda dapat menjalankan perintah berikut di terminal Anda:
+
+```
+git clone https://github.com/galuhsahid/data-preparation-with-python.git
+```
+
+Atau meng-klik tombol hijau bertuliskan "Clone or download" dan "Download ZIP" di bagian kanan atas halaman ini.
 
 ## 💡Pengenalan
 Python merupakan bahasa pemrograman modern yang bersifat *high level*. Python memiliki koleksi *library* yang besar, mulai dari komputasi sains sampai layanan web. Dengan menggunakan Python, kita juga dapat menerapkan baik itu pemrograman berorientasi objek maupun fungsional, dengan sistem modul yang memungkinkan aplikasi-aplikasi kompleks dan berukuran besar untuk dikembangkan dengan Python.
