@@ -2,7 +2,7 @@
 Untuk mengunduh materi-materi di folder ini, Anda dapat menjalankan perintah berikut di terminal Anda:
 
 ```
-git clone https://github.com/galuhsahid/data-preparation-with-python.git
+git clone https://github.com/galuhsahid/pengenalan-dasar-python.git
 ```
 
 Atau meng-klik tombol hijau bertuliskan "Clone or download" dan "Download ZIP" di bagian kanan atas halaman ini.
